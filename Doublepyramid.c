@@ -1,3 +1,4 @@
+//DoublePyramid.c
 #include<stdio.h>
 void main()
 {
